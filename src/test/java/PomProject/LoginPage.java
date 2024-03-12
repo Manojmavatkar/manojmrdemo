@@ -48,6 +48,7 @@ public class LoginPage {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		System.out.println("Code successfully executed");
 		driver.quit();
 	}
 
